@@ -1,6 +1,6 @@
 # Image-Processing using Python
 
-![Image Processing](image_procss.jpg)
+![Image Processing](image_procss.png)
 
 
 
